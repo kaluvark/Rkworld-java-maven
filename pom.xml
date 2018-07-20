@@ -50,5 +50,10 @@
         <url>http://10.76.118.92:8085/artifactory/Local-Repo</url>
     </snapshotRepository>
 </distributionManagement>
+   <server>
+      <id>96c995013b36</id>
+      <username>admin</username>
+      <password>password</password>
+    </server>
 
 </project>
